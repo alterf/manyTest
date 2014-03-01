@@ -25,5 +25,3 @@
     _w.addEventListener('error', listnerFunc, false);
 })(window);
 
-aaaa;
-
